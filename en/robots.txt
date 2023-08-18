@@ -1,0 +1,5 @@
+# bloque l'indexation pour les robots
+Sitemap: https://houbi-game.com/sitemap.xml
+User-agent: *
+Disallow: /
+Allow: /
