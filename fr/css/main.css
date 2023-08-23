@@ -198,6 +198,11 @@ img.logo {
     border-radius: 10px;    
 }
 
+.x-logo {
+    display: inline;
+    width: auto;
+}
+
 :root {
     --global-color-gray: #313135;
     --global-color-site-normal: hsl(243, 21%, 34%);
